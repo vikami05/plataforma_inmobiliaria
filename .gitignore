@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Configuración local
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de base de datos
+db.sqlite3
+
+# Archivos de compilación (React más adelante)
+node_modules/
+build/
+dist/
